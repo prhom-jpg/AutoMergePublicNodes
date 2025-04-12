@@ -1,19 +1,18 @@
 proxies:
-- cipher: aes-256-cfb
-  name: 1|_CN_
-  password: hGkQ6915tD
-  port: 15082
-  server: 59.56.77.178
-  type: ss
-- alterId: 64
+- alterId: 0
   cipher: auto
-  name: '3,17|🇨🇳_CN_中国 #1'
-  network: tcp
-  port: 54882
-  server: 183.240.235.162
+  name: 11|2|🌀1-CN |  6.1MB/s
+  network: ws
+  port: 2030
+  server: sogav4.737698.xyz
+  servername: sogav4.737698.xyz
   tls: false
   type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+  uuid: ea9c6c73-648d-4557-b290-11a20f6933e6
+  ws-opts:
+    headers:
+      Host: sogav4.737698.xyz
+    path: /
 - alterId: 0
   cipher: auto
   name: 12|github.com/freefq - 广东省移动 7
