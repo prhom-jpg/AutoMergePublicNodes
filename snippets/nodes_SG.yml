@@ -7,20 +7,6 @@ proxies:
   type: ss
 - alterId: 0
   cipher: auto
-  name: 11|2|🇸🇬1 |  5.7MB/s
-  network: ws
-  port: 2053
-  server: cloudflare.182682.xyz
-  servername: sg1.pavo.eu.org
-  tls: true
-  type: vmess
-  uuid: cbd1d425-5379-4c44-82fc-5765d1d34dc9
-  ws-opts:
-    headers:
-      Host: sg1.pavo.eu.org
-    path: /sg1vmess
-- alterId: 0
-  cipher: auto
   client-fingerprint: chrome
   name: 11,15,16|新加坡|@ripaojiedian
   network: ws
@@ -31,7 +17,7 @@ proxies:
   tfo: false
   tls: false
   type: vmess
-  uuid: 865f0d89-ebf5-465b-ae3f-2bd2b7f56bfa
+  uuid: 4c7929b7-281f-4d86-ad24-d766904482e6
   ws-opts:
     headers:
       Host: www.bing.com
@@ -51,6 +37,6 @@ proxies:
   name: 15|🇸🇬 狮城特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 3.38.94.160
+  server: 34.217.76.113
   tfo: false
   type: ss
