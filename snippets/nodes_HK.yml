@@ -1,7 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 11|3|🇭🇰1 |  1.9MB/s
+  name: 11|2|🇭🇰1 |  1.9MB/s
   network: tcp
   port: 4136
   server: a6cef6a2-sudhc0-svtnto-ckzn.d.volczijie.com
@@ -10,7 +10,7 @@ proxies:
   uuid: cbb15894-f6ad-11ef-afd8-f23c9313b177
 - alterId: 0
   cipher: auto
-  name: 11|3|🇭🇰14 |  2.7MB/s
+  name: 11|2|🇭🇰14 |  2.7MB/s
   network: ws
   port: 443
   server: 104.21.6.201
@@ -24,7 +24,7 @@ proxies:
     path: /rbqqvws
 - alterId: 0
   cipher: auto
-  name: 11|3|🇭🇰15 |  2.8MB/s
+  name: 11|2|🇭🇰15 |  2.8MB/s
   network: tcp
   port: 15229
   server: ce36ce73-sva740-sveyey-44k4.cm.plebai.net
@@ -33,7 +33,7 @@ proxies:
   uuid: c5eb2c2c-bc1d-11ed-a8bf-f23c91cfbbc9
 - alterId: 0
   cipher: auto
-  name: 11|3|🇭🇰18 |  1.5MB/s
+  name: 11|2|🇭🇰18 |  1.5MB/s
   network: tcp
   port: 15228
   server: 92d4ab34-sv0xs0-tcmtfl-1qudp.cm.plebai.net
@@ -42,7 +42,7 @@ proxies:
   uuid: 99129cef-f705-11ee-ada6-f23c91cfbbc9
 - alterId: 0
   cipher: auto
-  name: 11|3|🇭🇰19 |  3.9MB/s
+  name: 11|2|🇭🇰19 |  3.9MB/s
   network: tcp
   port: 15229
   server: 6aceadab-sv0xs0-sv1gez-1tk5u.cm.plebai.net
@@ -51,7 +51,7 @@ proxies:
   uuid: e3217bc2-061f-11f0-90e2-f23c913c8d2b
 - alterId: 0
   cipher: auto
-  name: 11|3|🇭🇰25 |  2.3MB/s
+  name: 11|2|🇭🇰25 |  2.3MB/s
   network: tcp
   port: 15228
   server: 34cabfa3-surog0-tc9wl2-py5w.cm.plebai.net
@@ -60,7 +60,7 @@ proxies:
   uuid: ae5338ae-9a70-58c9-3d47-7d54a5675715
 - alterId: 0
   cipher: auto
-  name: 11|3|🇭🇰30 |  1.3MB/s
+  name: 11|2|🇭🇰30 |  1.3MB/s
   network: tcp
   port: 15228
   server: f641bba8-supts0-svp9t7-1oijm.cm.plebai.net
@@ -100,24 +100,32 @@ proxies:
     headers:
       Host: vt-bana2-cn-11.ghpgwqswodgzv.com
     path: /dl_media
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: 15|🇭🇰 香港2|@ripaojiedian
+  password: 91a41f4e02dc
+  plugin: v2ray-plugin
+  plugin-opts:
+    host: hkkh11v1.xpmc.cc
+    mode: websocket
+    mux: true
+    path: /utvbnrzejpmt
+    skip-cert-verify: false
+    tls: true
+  port: 11497
+  server: hkkh11v1.xpmc.cc
+  tfo: false
+  type: ss
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 15|🇸🇬 新加坡2|@ripaojiedian
-  password: 07300b55-b834-41d8-a13a-fc6c65ffdfdf
-  port: 27401
-  server: 125.94.45.119
+  name: 15|🇹🇼 台湾2|@ripaojiedian
+  password: VMhGp5wEIyCDf90T
+  port: 3687
+  server: 1cea2198-sukw00-sv3y7m-1glq.a.fosant.com
   skip-cert-verify: false
-  sni: q08m.vgraxiw73s.hasyaf.cn
+  sni: hk06.run.place
   tfo: false
   tls: false
-  type: trojan
-  uuid: f6866b0b-f946-4a03-8df0-c7e0016b55ad
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: 15|🇭🇰 香港3|@ripaojiedian
-  password: W7fIo8Gp6TLb1YHZNH1fu5
-  port: 39008
-  server: 62.60.231.81
-  tfo: false
-  type: ss
+  type: vmess
+  uuid: df7bed3c-06eb-11f0-8ebc-f23c93141fad

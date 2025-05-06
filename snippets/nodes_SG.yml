@@ -7,7 +7,7 @@ proxies:
   type: ss
 - alterId: 0
   cipher: auto
-  name: 11|3|🇸🇬2 |  2.7MB/s
+  name: 11|2|🇸🇬2 |  2.7MB/s
   network: tcp
   port: 17231
   server: 13806907-svc1s0-swy6li-tni2.cm5.p5pv.com
@@ -31,11 +31,28 @@ proxies:
     headers:
       Host: ocbc.com
     path: /oooo
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 11,15,16|新加坡2|@ripaojiedian
+  network: ws
+  port: '35146'
+  server: sg6.vip2.g2.moonbase.life
+  servername: web.xcjs.info
+  skip-cert-verify: false
+  tfo: false
+  tls: true
+  type: vmess
+  uuid: c3136814-a07e-41f6-ad94-8e20458c0d21
+  ws-opts:
+    headers:
+      Host: web.xcjs.info
+    path: /home
 - cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 15|🇸🇬 狮城特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 13.114.211.183
+  server: 44.243.100.122
   tfo: false
   type: ss
