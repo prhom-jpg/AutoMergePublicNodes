@@ -2,7 +2,7 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 11,15,16|香港8|@ripaojiedian
+  name: 8,12,13|香港8|@ripaojiedian
   network: ws
   port: '8080'
   server: 140d8a8d-swexs0-t5urb7-1i1.hgc1.tcpbbr.net
@@ -18,7 +18,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 11|3|🇭🇰2 |  1.0MB/s|16%|Disney|Op...
+  name: 8|3|🇭🇰2 |  1.0MB/s|16%|Disney|Op...
   network: ws
   port: 8080
   server: e6eb5fca-swexs0-sycpj3-18jxd.hgc1.tcpbbr.net
@@ -31,7 +31,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 11,16|香港|@ripaojiedian
+  name: 8,13|香港|@ripaojiedian
   network: tcp
   port: '25635'
   server: 103.224.80.89
@@ -41,7 +41,7 @@ proxies:
   uuid: b6d376fb-c49e-49f4-fe0c-065bf7987ff5
 - alterId: 64
   cipher: auto
-  name: 11,16|香港3|@ripaojiedian
+  name: 8,13|香港3|@ripaojiedian
   network: tcp
   port: '35921'
   server: 120.198.71.216
@@ -51,7 +51,7 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 64
   cipher: auto
-  name: 11,16|香港4|@ripaojiedian
+  name: 8,13|香港4|@ripaojiedian
   network: tcp
   port: '43302'
   server: 183.236.51.38
@@ -61,7 +61,7 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 64
   cipher: auto
-  name: 11,16|香港7|@ripaojiedian
+  name: 8,13|香港7|@ripaojiedian
   network: tcp
   port: '41554'
   server: 183.236.51.38
@@ -72,7 +72,7 @@ proxies:
 - alterId: 64
   cipher: auto
   client-fingerprint: chrome
-  name: 15|🇯🇵 日本3|@ripaojiedian
+  name: 12|🇯🇵 日本3|@ripaojiedian
   password: 4abad10b-be0d-48bf-ab8a-3311463084d4
   port: 55002
   server: 183.237.84.53
@@ -84,7 +84,7 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
-  name: 15|🇭🇰 香港2|@ripaojiedian
+  name: 12|🇭🇰 香港2|@ripaojiedian
   password: 91a41f4e02dc
   plugin: v2ray-plugin
   plugin-opts:
@@ -100,7 +100,7 @@ proxies:
   type: ss
 - cipher: aes-256-gcm
   client-fingerprint: chrome
-  name: 15|🇭🇰 香港6|@ripaojiedian
+  name: 12|🇭🇰 香港6|@ripaojiedian
   password: NPOA4WYID2WF8N4E
   port: 15016
   server: 8tv68qhq.slashdevslashnetslashtun.net

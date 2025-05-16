@@ -1,7 +1,7 @@
 proxies:
 - alterId: 2
   cipher: auto
-  name: 11|3|🇨🇦2 |  5.5MB/s|Youtube|Opena...
+  name: 8|3|🇨🇦2 |  5.5MB/s|Youtube|Opena...
   network: ws
   port: 30825
   server: v25.heduian.link
