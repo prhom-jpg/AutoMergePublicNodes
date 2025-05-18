@@ -14,7 +14,7 @@ proxies:
     path: /634c5c4f9782
 - alterId: 64
   cipher: auto
-  name: 11|14|日本4|@ripaojiedian
+  name: 11,16|日本4|@ripaojiedian
   network: tcp
   port: '55002'
   server: 183.237.84.53
@@ -24,7 +24,7 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 0
   cipher: auto
-  name: 11|14|日本5|@ripaojiedian
+  name: 11,16|日本5|@ripaojiedian
   network: kcp
   port: '53893'
   server: 47.74.41.147
