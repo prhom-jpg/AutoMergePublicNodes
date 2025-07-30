@@ -1,7 +1,7 @@
 proxies:
 - alterId: 2
   cipher: auto
-  name: 11|🇺🇸62 |  3.3MB/s|Openai|Gemini
+  name: 11|🇺🇸美国62 | ⬇️ 3.3MB/s|Openai|Gem...
   network: ws
   port: 30829
   server: v29.heduian.link
