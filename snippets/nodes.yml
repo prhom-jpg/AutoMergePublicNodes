@@ -1,7 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 11|防范境外势*渗透
+  name: 11|防范境外势力渗透
   network: tcp
   port: '80'
   server: 127.0.0.53
@@ -10,7 +10,7 @@ proxies:
   uuid: 88888888-8888-8888-8888-888888888888
 - alterId: 0
   cipher: auto
-  name: '11|防范境外势*渗透 #1'
+  name: '11|防范境外势力渗透 #1'
   network: tcp
   port: '81'
   server: 127.0.0.53
@@ -19,7 +19,7 @@ proxies:
   uuid: 88888888-8888-8888-8888-888888888888
 - alterId: 0
   cipher: auto
-  name: '11|防范境外势*渗透 #2'
+  name: '11|防范境外势力渗透 #2'
   network: tcp
   port: '82'
   server: 127.0.0.53
@@ -28,7 +28,7 @@ proxies:
   uuid: 88888888-8888-8888-8888-888888888888
 - alterId: 0
   cipher: auto
-  name: '11|防范境外势*渗透 #3'
+  name: '11|防范境外势力渗透 #3'
   network: tcp
   port: '83'
   server: 127.0.0.53
@@ -37,7 +37,7 @@ proxies:
   uuid: 88888888-8888-8888-8888-888888888888
 - alterId: 0
   cipher: auto
-  name: '11|防范境外势*渗透 #4'
+  name: '11|防范境外势力渗透 #4'
   network: tcp
   port: '84'
   server: 127.0.0.53
@@ -46,7 +46,7 @@ proxies:
   uuid: 88888888-8888-8888-8888-888888888888
 - alterId: 0
   cipher: auto
-  name: '11|防范境外势*渗透 #5'
+  name: '11|防范境外势力渗透 #5'
   network: tcp
   port: '85'
   server: 127.0.0.53
@@ -55,7 +55,7 @@ proxies:
   uuid: 88888888-8888-8888-8888-888888888888
 - alterId: 0
   cipher: auto
-  name: '11|防范境外势*渗透 #6'
+  name: '11|防范境外势力渗透 #6'
   network: tcp
   port: '86'
   server: 127.0.0.53
@@ -64,7 +64,7 @@ proxies:
   uuid: 88888888-8888-8888-8888-888888888888
 - alterId: 0
   cipher: auto
-  name: '11|防范境外势*渗透 #7'
+  name: '11|防范境外势力渗透 #7'
   network: tcp
   port: '87'
   server: 127.0.0.53
@@ -73,7 +73,7 @@ proxies:
   uuid: 88888888-8888-8888-8888-888888888888
 - alterId: 0
   cipher: auto
-  name: '11|防范境外势*渗透 #8'
+  name: '11|防范境外势力渗透 #8'
   network: tcp
   port: '88'
   server: 127.0.0.53
@@ -82,7 +82,7 @@ proxies:
   uuid: 88888888-8888-8888-8888-888888888888
 - alterId: 0
   cipher: auto
-  name: '11|防范境外势*渗透 #9'
+  name: '11|防范境外势力渗透 #9'
   network: tcp
   port: '89'
   server: 127.0.0.53
