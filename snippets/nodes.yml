@@ -92,9 +92,9 @@ proxies:
 - alterId: 2
   cipher: auto
   client-fingerprint: chrome
-  name: '11,15,16|香港|@ripaojiedian #1'
+  name: 11,15|🇭🇰 香港|@ripaojiedian
   network: ws
-  port: '30809'
+  port: 30809
   server: v9.heduian.link
   servername: ''
   skip-cert-verify: false
@@ -109,9 +109,9 @@ proxies:
 - alterId: 2
   cipher: auto
   client-fingerprint: chrome
-  name: '11,15,16|香港5|@ripaojiedian #1'
+  name: 11,15|🇭🇰 香港5|@ripaojiedian
   network: ws
-  port: '80'
+  port: 80
   server: hkt.gotochinatown.net
   servername: ''
   skip-cert-verify: false
@@ -126,9 +126,9 @@ proxies:
 - alterId: 2
   cipher: auto
   client-fingerprint: chrome
-  name: '11,15,16|香港7|@ripaojiedian #1'
+  name: 11,15|🇭🇰 香港7|@ripaojiedian
   network: ws
-  port: '80'
+  port: 80
   server: f0364aea-t13gg0-t1rksu-1ssud.hk3.p5pv.com
   servername: ''
   skip-cert-verify: false
@@ -142,7 +142,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '11,16|香港v2|@ripaojiedian #1'
+  name: 11|香港v2|@ripaojiedian
   network: kcp
   port: '3351'
   server: 47.83.181.154
@@ -152,7 +152,7 @@ proxies:
   uuid: 0bfc8acf-ac40-45c1-8dde-7f3417621286
 - alterId: 0
   cipher: auto
-  name: '11,16|日本v2|@ripaojiedian #1'
+  name: 11|日本v2|@ripaojiedian
   network: kcp
   port: '37257'
   server: 47.74.57.10
