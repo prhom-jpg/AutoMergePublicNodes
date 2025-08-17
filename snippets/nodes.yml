@@ -106,40 +106,43 @@ proxies:
     headers:
       Host: baidu.com
     path: /oooo
+- alterId: 0
+  cipher: auto
+  name: '11,16|香港3|@ripaojiedian #1'
+  network: tcp
+  port: '21186'
+  server: 43.247.134.190
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: bc6f4625-0ce3-4dca-b441-22c34808e6f2
 - alterId: 2
   cipher: auto
   client-fingerprint: chrome
   name: '11,15,16|香港5|@ripaojiedian #1'
   network: ws
   port: '80'
-  server: hkt.gotochinatown.net
+  server: 5bf9e2f8-t15b40-t6eg6k-1pckg.hk3.p5pv.com
   servername: ''
   skip-cert-verify: false
   tfo: false
   tls: false
   type: vmess
-  uuid: 3be8cba8-b721-11ec-8b04-f23c91cfbbc9
+  uuid: 526a1128-7487-11ee-9bca-f23c913c8d2b
   ws-opts:
     headers:
       Host: broadcastlv.chat.bilibili.com
     path: /
-- alterId: 2
+- alterId: 64
   cipher: auto
-  client-fingerprint: chrome
-  name: '11,15,16|香港7|@ripaojiedian #1'
-  network: ws
-  port: '80'
-  server: f0364aea-t13gg0-t1rksu-1ssud.hk3.p5pv.com
+  name: '11,16|香港7|@ripaojiedian #1'
+  network: tcp
+  port: '42272'
+  server: 183.240.245.239
   servername: ''
-  skip-cert-verify: false
-  tfo: false
   tls: false
   type: vmess
-  uuid: e6aa39b6-f0b5-11ef-bca1-f23c91cfbbc9
-  ws-opts:
-    headers:
-      Host: broadcastlv.chat.bilibili.com
-    path: /
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 0
   cipher: auto
   name: '11,16|香港v2|@ripaojiedian #1'
@@ -289,7 +292,7 @@ proxies:
   name: 15|tg频道:@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 18.184.59.16
+  server: 34.242.33.79
   tfo: false
   type: ss
 - cipher: aes-256-gcm
@@ -308,21 +311,26 @@ proxies:
   server: 103.103.245.158
   tfo: false
   type: ss
-- client-fingerprint: chrome
+- alterId: 64
+  cipher: auto
+  client-fingerprint: chrome
   name: 15|🇺🇸 美国4|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
   port: 22006
   server: 36.156.102.67
   skip-cert-verify: true
   sni: www.baidu.com
+  tfo: false
+  tls: false
   type: trojan
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - cipher: rc4-md5
   client-fingerprint: chrome
   name: 15|🇯🇵 日本|@ripaojiedian
   password: efanccyun
   plugin: obfs
   plugin-opts:
-    host: 202508150964186-C3Laaffn48.download.microsoft.com
+    host: 202508150964186-XFJ7C2EYDL.download.microsoft.com
     mode: http
   port: 8766
   server: cn01.efan8867801.xyz
@@ -344,22 +352,6 @@ proxies:
   server: 137.220.191.40
   tfo: false
   type: ss
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: 15|🇰🇷 韩国|@ripaojiedian
-  password: feafc2ef-d5fd-4f6d-803b-fad4a5cc1f0e
-  port: 19852
-  server: mm.huawei-api.top
-  tfo: false
-  type: ss
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 15|🇰🇷 韩国2|@ripaojiedian
-  password: f8f7aCzcPKbsF8p3
-  port: 989
-  server: 154.90.63.177
-  tfo: false
-  type: ss
 - client-fingerprint: chrome
   name: 15|🇺🇸 美国|@ripaojiedian
   network: ws
@@ -379,9 +371,17 @@ proxies:
   password: efanccyun
   plugin: obfs
   plugin-opts:
-    host: 202508150964186-C3Laaffn48.download.microsoft.com
+    host: 202508150964186-XFJ7C2EYDL.download.microsoft.com
     mode: http
   port: 8774
   server: cn01.efan8867801.xyz
+  tfo: false
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 15|🇻🇳 越南|@ripaojiedian
+  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  port: 38388
+  server: 103.186.154.24
   tfo: false
   type: ss
