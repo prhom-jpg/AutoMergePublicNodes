@@ -1,4 +1,14 @@
 proxies:
+- alterId: 0
+  cipher: auto
+  name: '11,16|日本v2|@ripaojiedian #1'
+  network: kcp
+  port: '34933'
+  server: 8.209.211.236
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 8a9150bc-b9c8-40ac-be83-aaec45176a81
 - cipher: rc4-md5
   client-fingerprint: chrome
   name: 15|🇯🇵 日本|@ripaojiedian
@@ -27,13 +37,3 @@ proxies:
   server: 137.220.142.150
   tfo: false
   type: ss
-- alterId: 0
-  cipher: auto
-  name: 16|日本v2|@ripaojiedian
-  network: kcp
-  port: '34933'
-  server: 8.209.211.236
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 8a9150bc-b9c8-40ac-be83-aaec45176a81
