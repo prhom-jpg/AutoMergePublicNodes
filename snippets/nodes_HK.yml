@@ -2,7 +2,7 @@ proxies:
 - alterId: 2
   cipher: auto
   client-fingerprint: chrome
-  name: '11,15,16|香港|@ripaojiedian #1'
+  name: 15,16|香港|@ripaojiedian
   network: ws
   port: '30809'
   server: v9.heduian.link
@@ -16,50 +16,6 @@ proxies:
     headers:
       Host: baidu.com
     path: /oooo
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: '11,15,16|香港3|@ripaojiedian #1'
-  network: ws
-  port: '31469'
-  server: 149.30.232.103
-  servername: ''
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: 5381445d-6ae4-4948-b61a-a16d9498d21b
-  ws-opts:
-    headers:
-      Host: ''
-    path: /arki?ed=2048
-- alterId: 2
-  cipher: auto
-  client-fingerprint: chrome
-  name: '11,15,16|香港5|@ripaojiedian #1'
-  network: ws
-  port: '80'
-  server: 1e426046-t0fds0-t12cnj-1ol97.hk.p5pv.com
-  servername: ''
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: 93fb69fc-77cf-11ee-85ee-f23c91369f2d
-  ws-opts:
-    headers:
-      Host: broadcastlv.chat.bilibili.com
-    path: /
-- alterId: 0
-  cipher: auto
-  name: '11,16|香港v2|@ripaojiedian #1'
-  network: kcp
-  port: '5043'
-  server: 47.242.186.1
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 93c35277-ee3f-4ab2-9d9e-462b97a8795f
 - cipher: aes-256-gcm
   client-fingerprint: chrome
   name: 15|🇭🇰 香港2|@ripaojiedian
@@ -79,7 +35,24 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: '15|🇺🇸 美国3|@ripaojiedian #1'
+  name: 15,16|香港3|@ripaojiedian
+  network: ws
+  port: '31469'
+  server: 149.30.232.103
+  servername: ''
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: 5381445d-6ae4-4948-b61a-a16d9498d21b
+  ws-opts:
+    headers:
+      Host: ''
+    path: /arki?ed=2048
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 15|🇺🇸 美国3|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
   port: 57518
   server: 23.236.68.161
@@ -89,3 +62,30 @@ proxies:
   tls: false
   type: vmess
   uuid: e47902b2-928b-41ec-a868-ed3d1d4bec76
+- alterId: 2
+  cipher: auto
+  client-fingerprint: chrome
+  name: 15,16|香港5|@ripaojiedian
+  network: ws
+  port: '80'
+  server: 1e426046-t0fds0-t12cnj-1ol97.hk.p5pv.com
+  servername: ''
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: 93fb69fc-77cf-11ee-85ee-f23c91369f2d
+  ws-opts:
+    headers:
+      Host: broadcastlv.chat.bilibili.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 16|香港v2|@ripaojiedian
+  network: kcp
+  port: '5043'
+  server: 47.242.186.1
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 93c35277-ee3f-4ab2-9d9e-462b97a8795f
