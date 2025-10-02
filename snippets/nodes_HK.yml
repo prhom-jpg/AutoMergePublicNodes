@@ -42,16 +42,11 @@ proxies:
   server: 103.103.245.158
   tfo: false
   type: ss
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
+- client-fingerprint: chrome
   name: 15|🇺🇸 美国2|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
-  port: 4729
-  server: 160.16.130.66
+  port: 3296
+  server: 36.156.102.88
   skip-cert-verify: false
   sni: www.nintendogames.net
-  tfo: false
-  tls: false
   type: trojan
-  uuid: 7cc8bff2-1e5c-45d1-a3e7-b35e8f25cbbe
