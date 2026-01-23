@@ -129,7 +129,7 @@ proxies:
   port: 443
   server: 63.180.254.10
   type: ss
-- alterId: 0
+- alterId: 2
   cipher: auto
   name: 15|🇺🇸 美国3|@ripaojiedian
   password: BxceQaOe
@@ -139,13 +139,7 @@ proxies:
   sni: t.me%2Fripaojiedian
   tls: false
   type: trojan
-  uuid: 8482671e-846f-45c7-aec4-531c79f775ec
-- cipher: aes-256-cfb
-  name: 15|🇻🇳 越南|@ripaojiedian
-  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-  port: 38388
-  server: 103.186.155.51
-  type: ss
+  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - alterId: 2
   cipher: auto
   name: 16|香港|@ripaojiedian
@@ -156,13 +150,3 @@ proxies:
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- alterId: 0
-  cipher: auto
-  name: 16|香港2|@ripaojiedian
-  network: tcp
-  port: '34659'
-  server: 47.242.192.233
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 8482671e-846f-45c7-aec4-531c79f775ec
