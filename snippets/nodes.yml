@@ -123,23 +123,6 @@ proxies:
     headers:
       Host: server32.beheshtbaneh.com
     path: /
-- cipher: aes-256-cfb
-  name: 15|tg频道:@ripaojiedian
-  password: amazonskr05
-  port: 443
-  server: 63.180.254.10
-  type: ss
-- alterId: 0
-  cipher: auto
-  name: 15|🇺🇸 美国5|@ripaojiedian
-  password: BxceQaOe
-  port: 180
-  server: 82.198.246.233
-  skip-cert-verify: false
-  sni: t.me%2Fripaojiedian
-  tls: false
-  type: vmess
-  uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
 - alterId: 2
   cipher: auto
   name: 16|香港|@ripaojiedian
