@@ -4,7 +4,7 @@ proxies:
   name: 15|🇺🇸 美国3|@ripaojiedian
   password: BxceQaOe
   port: 29085
-  server: 18.163.90.221
+  server: 16.162.164.238
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   tls: false
