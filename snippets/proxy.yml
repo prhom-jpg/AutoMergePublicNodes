@@ -83,6 +83,7 @@ payload:
 - DOMAIN-SUFFIX,viu.tv
 - DOMAIN-KEYWORD,youtube
 - DOMAIN-SUFFIX,googlevideo.com
+- DOMAIN-SUFFIX,gvt2.com
 - DOMAIN-SUFFIX,youtu.be
 - DOMAIN-SUFFIX,steampowered.com
 - DOMAIN-SUFFIX,appspot.com
@@ -561,6 +562,7 @@ payload:
 - DOMAIN-SUFFIX,myfontastic.com
 - DOMAIN-SUFFIX,name.com
 - DOMAIN-SUFFIX,nextmedia.com
+- DOMAIN-SUFFIX,nsstatic.net
 - DOMAIN-SUFFIX,nssurge.com
 - DOMAIN-SUFFIX,omnigroup.com
 - DOMAIN-SUFFIX,onedrive.com
@@ -586,6 +588,7 @@ payload:
 - DOMAIN-SUFFIX,playstationnetwork.com
 - DOMAIN-SUFFIX,pushwoosh.com
 - DOMAIN-SUFFIX,rime.im
+- DOMAIN-SUFFIX,servebom.com
 - DOMAIN-SUFFIX,sharethis.com
 - DOMAIN-SUFFIX,shazam.com
 - DOMAIN-SUFFIX,skype.com
@@ -622,6 +625,7 @@ payload:
 - DOMAIN-SUFFIX,tweetmarker.net
 - DOMAIN-SUFFIX,txmblr.com
 - DOMAIN-SUFFIX,typekit.net
+- DOMAIN-SUFFIX,ubertags.com
 - DOMAIN-SUFFIX,ublock.org
 - DOMAIN-SUFFIX,ubnt.com
 - DOMAIN-SUFFIX,ulyssesapp.com
