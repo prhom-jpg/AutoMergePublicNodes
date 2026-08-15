@@ -133,8 +133,8 @@ proxies:
   cipher: auto
   name: 15|🇺🇸 美国3|@ripaojiedian
   password: BxceQaOe
-  port: 53001
-  server: 16.162.192.11
+  port: 1431
+  server: 18.162.154.22
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   tls: false
