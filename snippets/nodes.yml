@@ -182,13 +182,3 @@ proxies:
   port: 30001
   server: 36.33.35.105
   type: ss
-- alterId: 2
-  cipher: auto
-  name: 16|香港|@ripaojiedian
-  network: tcp
-  port: '30807'
-  server: v10.hdacd.com
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
